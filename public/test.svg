@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Moho 14.2 build 20240604 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Frame_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920px" height="1080px">
+<g id="bg">
+<path id="S1" fill="#232438" fill-rule="evenodd" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M -192.783 -327.915 C -192.537 -327.915 2270.314 -327.915 2270.560 -327.915 C 2270.560 -327.743 2270.560 1394.303 2270.560 1394.475 C 2270.314 1394.475 -192.537 1394.475 -192.783 1394.475 C -192.783 1394.303 -192.783 -327.743 -192.783 -327.915 Z"/>
+</g>
+<g id="guides">
+<path id="S1" fill="none" stroke="#d7d7d7" stroke-width="5" stroke-opacity="0.258824" stroke-linecap="round" stroke-linejoin="round" d="M -6.555 1063.637 C 644.944 1063.637 1947.878 1063.637 1947.943 1063.637 "/>
+<path id="S1_2" fill="none" stroke="#d7d7d7" stroke-width="5" stroke-opacity="0.258824" stroke-linecap="round" stroke-linejoin="round" d="M -21.707 645.361 C 625.643 645.361 1920.279 645.361 1920.344 645.361 "/>
+<path id="S1_2_2" fill="none" stroke="#d7d7d7" stroke-width="5" stroke-opacity="0.258824" stroke-linecap="round" stroke-linejoin="round" d="M -13.749 202.187 C 627.044 202.187 1908.570 202.187 1908.634 202.187 "/>
+<path id="S4" fill="none" stroke="#00a9ec" stroke-width="3" stroke-opacity="0.258824" stroke-linecap="round" stroke-linejoin="round" d="M 124.832 852.909 C 499.901 852.909 1250.004 852.909 1250.042 852.909 "/>
+</g>
+<g id="stick">
+<g id="head">
+<path id="S1" fill="#d77a6e" fill-rule="evenodd" stroke="none" d="M 488.808 213.851 C 546.268 213.851 592.621 260.204 592.621 317.664 C 592.621 375.124 546.268 421.477 488.808 421.477 C 431.349 421.477 384.996 375.124 384.996 317.664 C 384.996 260.204 431.349 213.851 488.808 213.851 Z"/>
+</g>
+<g id="body">
+<path id="S1" fill="none" stroke="#d77a6e" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M 490.007 412.238 C 490.007 452.061 490.007 531.694 490.007 531.706 C 490.007 531.717 490.007 649.558 490.007 649.558 "/>
+</g>
+<g id="R_hand">
+<path id="S1" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 480.740 412.887 C 480.733 412.900 427.137 519.362 417.337 547.453 C 407.656 575.203 383.656 690.493 383.656 690.493 "/>
+<path id="S1_2" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 382.815 694.235 C 381.619 699.611 380.422 704.986 379.226 710.362 "/>
+</g>
+<g id="L_hand">
+<path id="S1" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 618.703 676.869 C 618.694 676.857 543.457 583.499 531.272 556.322 C 519.237 529.481 499.749 412.662 499.749 412.662 "/>
+<path id="S1_2" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 630.664 692.859 C 627.374 688.442 624.084 684.025 620.795 679.608 "/>
+</g>
+<g id="L_leg">
+<path id="S1" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 578.803 1040.242 C 578.804 1040.223 603.631 884.389 596.449 849.125 C 588.462 809.909 494.051 661.854 494.051 661.854 "/>
+<path id="S1_2" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 599.737 1041.874 C 594.252 1041.367 588.768 1040.860 583.284 1040.353 "/>
+</g>
+<g id="R_leg">
+<path id="S1" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 341.905 1017.060 C 341.918 1017.046 457.351 894.962 467.972 870.392 C 479.490 843.747 489.104 661.732 489.104 661.732 "/>
+<path id="S1_2" fill="none" stroke="#d77a6e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" d="M 351.470 1036.570 C 348.659 1031.834 345.847 1027.098 343.036 1022.363 "/>
+</g>
+</g>
+</svg>

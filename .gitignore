@@ -1,0 +1,21 @@
+# For projects using Nanoc (http://nanoc.ws/)
+
+# Default location for output (needs to match output_dir's value found in nanoc.yaml)
+output/
+
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Local development files
+tsconfig.tsbuildinfo
+.env*.local
+
+# Temporary file directory
+tmp/nanoc/
+
+# Crash Log
+crash.log

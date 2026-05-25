@@ -1,2 +1,2 @@
-# ycc
-ycc web platform source code
+# YCC-NEXT2
+
